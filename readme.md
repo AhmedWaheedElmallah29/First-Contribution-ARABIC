@@ -2322,37 +2322,38 @@
             <br>            
             <table>
                 <tr> 
-                    <!-- LINKED IN -->
+                    <!-- GITHUB -->
                     <td>
-                        <a href="https://www.linkedin.com/in/ahmed-waheed-elmallah-19966a300/">
-                            <img src="./images/linkedin-logo.png" width="30">
+                        <a href="https://github.com/AhmedWaheedElmallah29">
+                        <img src="./images/github-logo.png" width="30">
                         </a>
                     </td>
-                    <!--// LINKED IN //-->
+                    <!--// GITHUB //-->
                     <!-- FACEBOOK -->
                     <td>
                         <a href="https://www.facebook.com/Ahmedwaheedelmallah/">
-                            <img src="./images/facebook-logo.png" width="30">
+                        <img src="./images/facebook-logo.png" width="30">
                         </a>
                     </td>
                     <!--// FACEBOOK //-->
                     <!-- INSTAGRAM -->
                     <td>
                         <a href="https://www.instagram.com/ahmedwaheed_elmallah/">
-                            <img src="./images/instagram-logo.png" width="30">
+                        <img src="./images/instagram-logo.png" width="30">
                         </a>
                     </td>
                     <!--// INSTAGRAM //-->
-                    <!-- GITHUB -->
+                    <!-- LINKED IN -->
                     <td>
-                        <a href="https://github.com/AhmedWaheedElmallah29">
-                            <img src="./images/github-logo.png" width="30">
+                        <a href="https://www.linkedin.com/in/ahmed-waheed-elmallah-19966a300/">
+                        <img src="./images/linkedin-logo.png" width="30">
                         </a>
                     </td>
-                    <!--// GITHUB //-->
+                    <!--// LINKED IN //-->
                 </tr>
-            </table>            
+            </table>
         </td>
     </tr>
     <!-- Ahmed Elmallah -->
+
 </table>
